@@ -1,16 +1,15 @@
-### Hi there 👋
+# ADRIÁN GUERRERO AMELÍN
 
-<!--
-**adrihamel/adrihamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/adrian-guerrero-amelin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrihamel&layout=compact&theme=nord&langs_count=10&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  [![aguerrer's 42 stats](https://badge42.herokuapp.com/api/stats/aguerrer?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![aguerrer's 42 stats](https://badge42.herokuapp.com/api/stats/aguerrer?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+  
+  #### Primer proyecto:  [![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/Libft)](https://github.com/JaeSeoKim/badge42)
+  
+  * 👨🏼‍🎓 Student at [42Madrid](https://42madrid.com/)
