@@ -10,6 +10,9 @@
 
   [![aguerrer's 42 stats](https://badge42.herokuapp.com/api/stats/aguerrer?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
   
-  #### Primer proyecto:  [![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/Libft)](https://github.com/JaeSeoKim/badge42)
+  #### Primer proyecto Libft:  [![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/Libft)](https://github.com/JaeSeoKim/badge42)
+  #### Segundo proyecto Get_next_line:  [![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/get_next_line)](https://github.com/JaeSeoKim/badge42)
+  
+    
   
   * 👨🏼‍🎓 Student at [42Madrid](https://42madrid.com/)
