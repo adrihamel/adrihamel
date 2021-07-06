@@ -10,6 +10,8 @@
   [![aguerrer's 42 stats](https://badge42.herokuapp.com/api/stats/aguerrer?cursus=C%20Piscine)](https://github.com/JaeSeoKim/badge42)
 
   [![aguerrer's 42 stats](https://badge42.herokuapp.com/api/stats/aguerrer?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
+---
     
 |  ##  |			Name_Proyect				| Result |
 |:----:|:----------------:|:------:|
@@ -18,7 +20,12 @@
 |  02  |born2beroot	      | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/Born2beroot)  |
 |  03  |ft_printf         | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/ft_printf)    |
 |  04  |minitalk          | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/minitalk)     |
+
+---
     
+|  ##  |			Exams				| Result |
+|:----:|:----------------:|:------:|
+|  00  |Exam Rank 02      | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/ft_printf)    |  
 
 
 ---
