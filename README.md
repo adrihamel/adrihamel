@@ -21,6 +21,7 @@
 |  03  |ft_printf         | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/ft_printf)    |
 |  04  |minitalk          | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/minitalk)     |
 |  05  |FdF               | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/FdF)          |
+|  06  |push_swap         | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/push_swap)    |
 
 ---
     
