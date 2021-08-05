@@ -27,7 +27,8 @@
     
 |  ##  |			Exams				| Result |
 |:----:|:----------------:|:------:|
-|  00  |Exam Rank 02      | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/ft_printf)    |  
+|  00  |Exam Rank 02      | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/ft_printf)    |
+|  01  |Exam Rank 03      | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/ft_printf)    |
 
 
 ---
