@@ -23,6 +23,7 @@
 |  05  |FdF               | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/FdF)          |
 |  06  |push_swap         | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/push_swap)    |
 |  07  |Philosophers      | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/Philosophers) |
+|  08  |Minishell         | ![aguerrer's 42Project Score](https://badge42.herokuapp.com/api/project/aguerrer/minishell) |
     
 
 ---
